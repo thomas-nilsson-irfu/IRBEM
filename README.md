@@ -1,4 +1,4 @@
-IRBEM Library
+IRBEM Library [![ci-build](https://github.com/thomas-nilsson-irfu/IRBEM/actions/workflows/ci.yml/badge.svg)](https://github.com/thomas-nilsson-irfu/IRBEM/actions/workflows/ci.yml)
 =============
 
 The International Radiation Belt Environment Modeling (IRBEM) library is
